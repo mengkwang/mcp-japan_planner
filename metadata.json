@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi Japan Itinerary Planner",
+  "description": "Curated, off-the-beaten-path Japan travel itineraries for adventurous and affluent travelers and families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
